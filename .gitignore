@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+*.o
+*.out
+a.out
+*.exe
+*.dSYM/
+__pycache__/
+.vscode/
